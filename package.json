@@ -1,0 +1,25 @@
+{
+  "name": "m-shouman.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-shouman/m-shouman.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-shouman/m-shouman.github.io/issues"
+  },
+  "homepage": "https://github.com/m-shouman/m-shouman.github.io#readme",
+  "dependencies": {
+    "bulma": "^0.7.2",
+    "bulma-extensions": "^4.0.0"
+  }
+}
