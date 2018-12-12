@@ -1,16 +1,30 @@
 /* https://stackoverflow.com/questions/31951282/why-is-marquee-deprecated-and-what-is-the-best-alternative */
-.avatar {
+/* .avatar {
     background-image: url("../images/me.jpg");
     background-repeat: no-repeat;
     background-position: 100% 0%;
     zoom: .25;
     margin-top: 2%;
-}
+} */
 
-.circle {
+/* .circle {
     border-radius: 50%;
     height: 650px;
     width: 650px;
+} */
+
+.avatar {
+background-image: url(../images/me.jpeg);
+    background-repeat: no-repeat;
+    background-position: 0% 25%;
+    zoom: 0.25;
+    margin-top: 2%;
+} 
+
+.circle {
+    border-radius: 50%;
+    height: 725px;
+    width: 725px;
 }
 
 .brand-logo {
